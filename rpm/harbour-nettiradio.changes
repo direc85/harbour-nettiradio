@@ -1,7 +1,9 @@
 * Sat Mar 15 2025 direc85 <matti.viljanen@kapsi.fi> 1.10.0-1
-- remove .yaml files
+- remove deprecated .yaml, leftover cpp files
 - fix and add many, many channels
 - remove inaccessible streams from Bauer Media (help wanted)
+- revive and fix MPRIS support
+- various UI fixes and improvements
 
 * Wed Jun 30 2021 jollailija <jollailija@gmail.com> 1.9.2-4
 - yle stations
