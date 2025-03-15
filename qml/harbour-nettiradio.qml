@@ -174,7 +174,7 @@ ApplicationWindow
         property string radioStation: "Valitse asema"
         property string musicSource
         property string website
-        //property string xmlLocation: "https://jollailija.github.io/nettiradio/asemat.xml"
+        //property string xmlLocation: "https://raw.githubusercontent.com/direc85/harbour-nettiradio/refs/heads/master/qml/Pages/StationLists/xml/asemat.xml"
         property int sleepTime: -1
         property bool playing: false
         property bool stopped: true

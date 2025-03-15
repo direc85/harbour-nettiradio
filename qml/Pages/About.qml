@@ -78,7 +78,7 @@ Page {
             text: qsTr("Tämä on sovellus kaikille suomalaisten nettiradioiden kuuntelijoille, tekijänä jollailija ja direc85.<br><br>") +
 
                   qsTr("Nettiradioiden streamitiedot ovat peräisin lähteestä ") + "<a href='http://www.mediamonitori.fi/index.php/nettiradiot'>mediamonitori.fi</a>" + "<br>" +
-                  qsTr("Muut lähteet on mainittu " +"<a href='https://jollailija.github.io/nettiradio/asemat.xml'>asemalistatiedostossa</a>.") + "<br>" +
+                  qsTr("Muut lähteet on mainittu " +"<a href='https://raw.githubusercontent.com/direc85/harbour-nettiradio/refs/heads/master/qml/Pages/StationLists/xml/asemat.xml'>asemalistatiedostossa</a>.") + "<br>" +
                   qsTr("Kaikki radioasemat eivät lähetä nettistreamia Qt audioelementin ymmärtämässä formaatissa.") + "<br><br>" +
 
                   "<b>" + qsTr("Lähdekoodi on saatavilla BSD-lisenssillä ") + "<a href='https://github.com/jollailija/nettiradio'>GitHub</a></b>"+ qsTr("ista ja sovelluksen uusimmat versiot löytyvät ") + "<b><a href='https://openrepos.net/content/jollailija/finnish-net-radio-client-beta/'>OpenRepos</a></b>"+ qsTr("ista.") + "<br>" +

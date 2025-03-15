@@ -49,7 +49,7 @@ function setDefaultSettings() {
     Storage.setSetting("suStation","Valitse asema") // def. startup values
     Storage.setSetting("suWebsite","https://github.com/jollailija/nettiradio/")
     Storage.setSetting("suUrl","")
-    //Storage.setSetting("xmlLocation","http://jollailija.github.io/nettiradio/asemat.xml")
+    //Storage.setSetting("xmlLocation","https://raw.githubusercontent.com/direc85/harbour-nettiradio/refs/heads/master/qml/Pages/StationLists/xml/asemat.xml")
     Storage.setSetting("firstTime","no")
     console.log("Settings set. Loading settings")
     loadSettings()
