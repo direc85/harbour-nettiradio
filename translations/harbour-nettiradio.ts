@@ -4,78 +4,73 @@
 <context>
     <name>About</name>
     <message>
-        <location filename="../qml/Pages/About.qml" line="46"/>
+        <location filename="../qml/Pages/About.qml" line="55"/>
         <source>Tietoa sovelluksesta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="52"/>
+        <location filename="../qml/Pages/About.qml" line="61"/>
         <source>Versio </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="57"/>
+        <location filename="../qml/Pages/About.qml" line="66"/>
         <source>Avataan linkki</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="69"/>
-        <source>Tämä on sovellus kaikille suomalaisten nettiradioiden kuuntelijoille, tekijänä jollailija.&lt;br&gt;&lt;br&gt;</source>
+        <location filename="../qml/Pages/About.qml" line="78"/>
+        <source>Tämä on sovellus kaikille suomalaisten nettiradioiden kuuntelijoille, tekijänä jollailija ja direc85.&lt;br&gt;&lt;br&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="71"/>
+        <location filename="../qml/Pages/About.qml" line="80"/>
         <source>Nettiradioiden streamitiedot ovat peräisin lähteestä </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="72"/>
+        <location filename="../qml/Pages/About.qml" line="81"/>
         <source>Muut lähteet on mainittu &lt;a href=&apos;https://raw.githubusercontent.com/direc85/harbour-nettiradio/refs/heads/master/qml/Pages/StationLists/xml/asemat.xml&apos;&gt;asemalistatiedostossa&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="73"/>
+        <location filename="../qml/Pages/About.qml" line="82"/>
         <source>Kaikki radioasemat eivät lähetä nettistreamia Qt audioelementin ymmärtämässä formaatissa.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="75"/>
+        <location filename="../qml/Pages/About.qml" line="84"/>
         <source>Lähdekoodi on saatavilla BSD-lisenssillä </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="75"/>
+        <location filename="../qml/Pages/About.qml" line="84"/>
         <source>ista ja sovelluksen uusimmat versiot löytyvät </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="75"/>
+        <location filename="../qml/Pages/About.qml" line="84"/>
         <source>ista.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="76"/>
+        <location filename="../qml/Pages/About.qml" line="85"/>
         <source>Jos sinulla on kysymyksiä, asema- ja ominaisuustoiveita tai palautetta, voit kirjoittaa kommentin Kauppaan tai OpenReposiin tai lähettää sähköpostia osoitteeseen jollailija@gmail.com</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="77"/>
-        <source>Kiitos Daxille avusta koodin kanssa, r0kk3rz:ille AlphaMenun tekemisestä, Mothille hienosta ikonista sekä coderusille, kimmolille ja monille muille, jotka ovat jakaneet neuvojaan devel-postilitalla. Suuri kiitos myös kaikille Flattr-lahjoittajille.</source>
+        <location filename="../qml/Pages/About.qml" line="86"/>
+        <source>Kiitos Daxille avusta koodin kanssa, r0kk3rz:ille AlphaMenun tekemisestä, Mothille hienosta ikonista sekä coderusille, kimmolille ja monille muille, jotka ovat jakaneet neuvojaan devel-postilitalla. Suuri kiitos myös kaikille Flattr-lahjoittajille, vaikken sieltä rahoja ulos saanutkaan :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="91"/>
+        <location filename="../qml/Pages/About.qml" line="100"/>
         <source>GitHub</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/About.qml" line="95"/>
-        <source>OpenRepos</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../qml/Pages/About.qml" line="104"/>
-        <source>Lahjoita Flattrin kautta</source>
+        <source>OpenRepos</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -95,73 +90,69 @@
 <context>
     <name>FavDialog</name>
     <message>
-        <location filename="../qml/Pages/FavDialog.qml" line="51"/>
+        <location filename="../qml/Pages/FavDialog.qml" line="56"/>
         <source>Muokkaa suosikkia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavDialog.qml" line="58"/>
-        <location filename="../qml/Pages/FavDialog.qml" line="59"/>
+        <location filename="../qml/Pages/FavDialog.qml" line="63"/>
+        <location filename="../qml/Pages/FavDialog.qml" line="64"/>
         <source>Aseman nimi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavDialog.qml" line="68"/>
-        <location filename="../qml/Pages/FavDialog.qml" line="69"/>
+        <location filename="../qml/Pages/FavDialog.qml" line="73"/>
+        <location filename="../qml/Pages/FavDialog.qml" line="74"/>
         <source>Streamin osoite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavDialog.qml" line="77"/>
-        <location filename="../qml/Pages/FavDialog.qml" line="78"/>
-        <source>Aseman nettisivu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
+        <location filename="../qml/Pages/FavDialog.qml" line="82"/>
         <location filename="../qml/Pages/FavDialog.qml" line="83"/>
-        <source>Lisää nykyinen asema</source>
+        <source>Aseman nettisivu</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FavManager</name>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="56"/>
+        <location filename="../qml/Pages/FavManager.qml" line="58"/>
         <source>Hallitse suosikkeja</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="60"/>
+        <location filename="../qml/Pages/FavManager.qml" line="62"/>
         <source>Tallenna muutokset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="71"/>
+        <location filename="../qml/Pages/FavManager.qml" line="73"/>
+        <location filename="../qml/Pages/FavManager.qml" line="74"/>
         <source>Lisää asema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="77"/>
+        <location filename="../qml/Pages/FavManager.qml" line="79"/>
         <source>Ei suosikkeja</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="78"/>
+        <location filename="../qml/Pages/FavManager.qml" line="80"/>
         <source>Valitse vetovalikosta &apos;Lisää asema&apos; lisätäksesi suosikin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="97"/>
+        <location filename="../qml/Pages/FavManager.qml" line="99"/>
         <source>Poistuu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="111"/>
+        <location filename="../qml/Pages/FavManager.qml" line="113"/>
         <source>Muokkaa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/FavManager.qml" line="115"/>
+        <location filename="../qml/Pages/FavManager.qml" line="125"/>
         <source>Poista</source>
         <translation type="unfinished"></translation>
     </message>
@@ -232,118 +223,118 @@
 <context>
     <name>Menu</name>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="50"/>
+        <location filename="../qml/Pages/Menu.qml" line="52"/>
         <source>Valikko</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="53"/>
+        <location filename="../qml/Pages/Menu.qml" line="55"/>
         <source>Käyttöohje</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="60"/>
+        <location filename="../qml/Pages/Menu.qml" line="62"/>
         <source>Tietoa sovelluksesta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="67"/>
+        <location filename="../qml/Pages/Menu.qml" line="69"/>
         <source>Uniajastin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="74"/>
+        <location filename="../qml/Pages/Menu.qml" line="76"/>
         <source>Muokkaa suosikkeja</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="82"/>
+        <location filename="../qml/Pages/Menu.qml" line="84"/>
         <source>Asetukset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="88"/>
+        <location filename="../qml/Pages/Menu.qml" line="90"/>
         <source>Työkalut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="94"/>
+        <location filename="../qml/Pages/Menu.qml" line="96"/>
         <source>Päivitä lista</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="105"/>
+        <location filename="../qml/Pages/Menu.qml" line="107"/>
         <source>Jos nappulat sekoavat, toiston lopettaminen auttaa.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="113"/>
+        <location filename="../qml/Pages/Menu.qml" line="115"/>
         <source>Lopeta toisto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="124"/>
+        <location filename="../qml/Pages/Menu.qml" line="126"/>
         <source>Palautumismoodi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="126"/>
+        <location filename="../qml/Pages/Menu.qml" line="128"/>
         <source>Tuhlaa hieman virtaa, mutta selviytyy paremmin katkoista. Poista käytöstä käynnistämällä sovellus uudelleen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="131"/>
+        <location filename="../qml/Pages/Menu.qml" line="136"/>
         <source>Oletuskanava</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="138"/>
+        <location filename="../qml/Pages/Menu.qml" line="143"/>
         <source>Aseta nykyinen kanava soimaan käynnistäessä tai poista oletuskanava käytöstä</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="149"/>
+        <location filename="../qml/Pages/Menu.qml" line="154"/>
         <source>Aseta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="153"/>
+        <location filename="../qml/Pages/Menu.qml" line="158"/>
         <source>Poista</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="158"/>
-        <location filename="../qml/Pages/Menu.qml" line="180"/>
+        <location filename="../qml/Pages/Menu.qml" line="163"/>
+        <location filename="../qml/Pages/Menu.qml" line="185"/>
         <source>Äänenvoimakkuus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="165"/>
+        <location filename="../qml/Pages/Menu.qml" line="170"/>
         <source>Hiljennä äänenvoimakkuutta. Oletusarvo on 1.0. Nollautuu käynnistettäessä sovellus uudelleen.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="184"/>
+        <location filename="../qml/Pages/Menu.qml" line="189"/>
         <source>Tekstin koko</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="191"/>
+        <location filename="../qml/Pages/Menu.qml" line="196"/>
         <source>Säädä tekstin kokoa. Oletusarvo on 1.0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="206"/>
+        <location filename="../qml/Pages/Menu.qml" line="211"/>
         <source>Fonttikoko</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="210"/>
+        <location filename="../qml/Pages/Menu.qml" line="218"/>
         <source>Nollaa asetukset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/Menu.qml" line="216"/>
+        <location filename="../qml/Pages/Menu.qml" line="224"/>
         <source>Nollaa</source>
         <translation type="unfinished"></translation>
     </message>
@@ -351,17 +342,17 @@
 <context>
     <name>PulleyMenu</name>
     <message>
-        <location filename="../qml/Pages/PulleyMenu.qml" line="39"/>
+        <location filename="../qml/Pages/PulleyMenu.qml" line="41"/>
         <source>Vaihda näkymää</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/PulleyMenu.qml" line="46"/>
+        <location filename="../qml/Pages/PulleyMenu.qml" line="59"/>
         <source>Lukitse suunta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/PulleyMenu.qml" line="47"/>
+        <location filename="../qml/Pages/PulleyMenu.qml" line="60"/>
         <source>Vapauta suunta</source>
         <translation type="unfinished"></translation>
     </message>
@@ -407,7 +398,7 @@
 <context>
     <name>StationGridView</name>
     <message>
-        <location filename="../qml/Pages/StationGridView.qml" line="46"/>
+        <location filename="../qml/Pages/StationGridView.qml" line="48"/>
         <source>Valikko</source>
         <translation type="unfinished"></translation>
     </message>
@@ -415,48 +406,48 @@
 <context>
     <name>StationListView</name>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="43"/>
+        <location filename="../qml/Pages/StationListView.qml" line="44"/>
         <source>Piilota haku</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="44"/>
         <location filename="../qml/Pages/StationListView.qml" line="45"/>
+        <location filename="../qml/Pages/StationListView.qml" line="46"/>
         <source>Näytä haku</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="51"/>
+        <location filename="../qml/Pages/StationListView.qml" line="62"/>
         <source>Valikko</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="66"/>
+        <location filename="../qml/Pages/StationListView.qml" line="99"/>
         <source>Hae</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="94"/>
+        <location filename="../qml/Pages/StationListView.qml" line="119"/>
         <source>Ladataan asemalistaa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="95"/>
+        <location filename="../qml/Pages/StationListView.qml" line="120"/>
         <source>Paina tästä, jos haluat käyttää paikallista kopioa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="100"/>
+        <location filename="../qml/Pages/StationListView.qml" line="125"/>
         <source>Asemia ei löytynyt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="101"/>
+        <location filename="../qml/Pages/StationListView.qml" line="126"/>
         <source>Kokeile hakea jotakin muuta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Pages/StationListView.qml" line="114"/>
+        <location filename="../qml/Pages/StationListView.qml" line="78"/>
         <source>Radioasemat</source>
         <translation type="unfinished"></translation>
     </message>

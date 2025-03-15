@@ -34,6 +34,6 @@ SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172 #256x256
 
 # to disable building translations every time, comment out the
 # following CONFIG line
-#CONFIG += sailfishapp_i18n
+CONFIG += sailfishapp_i18n
 
-#TRANSLATIONS += translations/harbour-nettiradio-en.ts
+TRANSLATIONS += translations/harbour-nettiradio-en.ts
