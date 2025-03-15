@@ -30,7 +30,7 @@
     </message>
     <message>
         <location filename="../qml/Pages/About.qml" line="72"/>
-        <source>Muut lähteet on mainittu &lt;a href=&apos;https://jollailija.github.io/nettiradio/asemat.xml&apos;&gt;asemalistatiedostossa&lt;/a&gt;.</source>
+        <source>Muut lähteet on mainittu &lt;a href=&apos;https://raw.githubusercontent.com/direc85/harbour-nettiradio/refs/heads/master/qml/Pages/StationLists/xml/asemat.xml&apos;&gt;asemalistatiedostossa&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
