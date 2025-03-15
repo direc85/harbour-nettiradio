@@ -4,3 +4,5 @@
 *.91cc43c
 *.user
 *.old
+Makefile
+*.list

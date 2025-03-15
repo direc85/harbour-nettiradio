@@ -4,8 +4,8 @@ Name:       harbour-nettiradio
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Suomalaisten nettiradioiden kuuntelusovellus
-Version:    1.9.2
-Release:    4
+Version:    1.10.0
+Release:    1
 License:    BSD
 BuildArch:  noarch
 URL:        https://www.github.com/jollailija/nettiradio/
